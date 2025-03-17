@@ -28,10 +28,6 @@
 
 ## 🛠 Tech Stack  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVTz9zwak1p9CE/giphy.gif" width="40px">
-</p>
-
 ### 🚀 Languages, Frameworks & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -68,13 +64,6 @@
   <a href="https://holopin.io/@kshitijakarsh">
     <img src="https://holopin.me/kshitijakarsh" alt="Holopin Badges" />
   </a>
-</p>
-
----
-
-## 🎯 Visitor Count  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kshitijakarsh&icon=0&color=0" alt="Profile Views" />
 </p>
 
 ---
