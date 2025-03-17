@@ -51,11 +51,9 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijakarsh&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijakarsh&theme=gotham&hide_border=false" height="165" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijakarsh&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=kshitijakarsh&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kshitijakarsh&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijakarsh&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
