@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="kshitijakarsh.me">
-    <img src="https://img.icons8.com/?size=100&id=7820&format=png&color=000000" alt="profile" />
+    <img src="https://img.icons8.com/?size=20&id=7820&format=png&color=000000" alt="profile" />
   </a>
 </p>
 
