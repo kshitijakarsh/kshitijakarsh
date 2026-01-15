@@ -3,10 +3,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/251003973-3a8f97f1-95b2-4e42-a9a6-3c3672d17b52.gif" width="800px">
 </p>
 
-<h1 align="center"> 
+<h1> 
   Hi there, I'm Kshitij Akarsh! 👋  
 </h1>
-<h3 align="center">🚀 Tech Enthusiast | Software Developer | AI & Data Science Explorer</h3>
+<h3>Tech Enthusiast | FullStack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300F700&size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Coding+is+an+art!;Always+learning+%26+building!" />
